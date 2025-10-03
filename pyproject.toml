@@ -10,7 +10,7 @@ dependencies = [
     "pandas==2.2.3",
     "scikit-learn==1.7.2",
     "seaborn==0.13.2",
-    "torch==2.7.1",
+    "torch==2.8.0",
     "torchvision==0.22.1",
     "wandb==0.22.1",
 ]
